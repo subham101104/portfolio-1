@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Harshiv Patel",
-        "image": "src/assets/images/hdp.jpg",
+        "image": "../images/hdp.jpg",
         "email": "harshivp333@gmail.com",
         "role": "Full Stack Developer",
         "college": "B.E Computer Engineering",
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "name" : "Nishal Shah",
-        "image": "src/assets/images/ndp.jpeg",
+        "image": "../images/ndp.jpeg",
         "email": "nishalwk@gmail.com",
         "role": "Full Stack Developer",
         "college": "BCA",
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "name": "Dipanshu Bharatia",
-        "image": "src/assets/images/ddp.jpeg",
+        "image": "../images/ddp.jpeg",
         "email": "dbharatia09@gmail.com",
         "role": "Full Stack Developer , AI/ML Developer",
         "college": "B.E Computer Engineering",
