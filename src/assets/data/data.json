@@ -1,29 +1,29 @@
 [
     {
         "id": 1,
-        "name": "Harshiv Patel",
+        "name": "Sarjan Patel",
         "image": "../images/hdp.jpg",
-        "email": "harshivp333@gmail.com",
+        "email": "sarjanpatel2003@gmail.com",
         "role": "Full Stack Developer",
-        "college": "B.E Computer Engineering",
+        "college": "parul university ",
         "experience": "2+ years in Web Development , 1 year in Machine Learning"
     },
     {
         "id": 2,
-        "name" : "Nishal Shah",
-        "image": "../images/ndp.jpeg",
-        "email": "nishalwk@gmail.com",
+        "name" : "Vacha Shah",
+        "image": "vd.jpg",
+        "email": "vacchashah@gmail.com",
         "role": "Full Stack Developer",
-        "college": "BCA",
+        "college": "parul university ",
         "experience": "2+ years in Full Stack Development"
     },
     {
         "id": 3,
-        "name": "Dipanshu Bharatia",
+        "name": "vruti kachia ",
         "image": "../images/ddp.jpeg",
-        "email": "dbharatia09@gmail.com",
+        "email": "vrutikachhiya@gmail.com",
         "role": "Full Stack Developer , AI/ML Developer",
-        "college": "B.E Computer Engineering",
+        "college": "parul university ",
         "experience": "2+ years in Full Stack Development"
     }
 ]

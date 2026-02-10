@@ -2,19 +2,19 @@
     {
         "id": 1,
         "images": "../images/harshiv_h.jpg",
-        "award": "Dewang Mehta IT Awards",
-        "desc": "Won the Dewang Mehta IT Awards"
+        "award": "food delivery app",
+        "desc": "A full-stack food ordering platform that allows users to browse restaurants, add items to cart, and place orders in real-time with a smooth and responsive UI"
     },
     {
         "id": 2,
         "images": "../images/nishal_h.jpeg",
-        "award": "All India Frorensic Science Hackathon",
-        "desc": "Runners up at All India Frorensic Science Hackathon"
+        "award": "attendance system",
+        "desc": "An automated attendance tracking system that digitizes and simplifies student/employee attendance using secure login and real-time data storage"
     },
     {
         "id": 3,
         "images": "../images/team_h.jpeg",
-        "award": "Makers Fest Vadodara",
-        "desc": "Won the Special Recognition Award at Makers Fest Vadodara"
+        "award": "yoga instruction app",
+        "desc": "A health and wellness application that helps users practice yoga through guided poses, routines, and progress tracking"
     }
 ]

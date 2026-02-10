@@ -44,9 +44,8 @@ export const Introduction = () => {
                         products. Let’s build the future, together.
                     </span><br />
                     <span className="text-white font-customFont text-[15px] md:text-[20px] cursor-default">
-                        Check out projects:
-                        <a href="https://virtual-tour-seven.vercel.app/" target="_blank">  Project 1,</a>
-                        <a href="https://cvmu.edu.in/ddcet" target="_blank">  Project 2</a>
+                        
+           
                     </span>
                 </div>
             </div>
