@@ -3,18 +3,18 @@
         "id": 1,
         "images": "../images/harshiv_h.jpg",
         "award": "food delivery app",
-        "desc": "A full-stack food ordering platform that allows users to browse restaurants, add items to cart, and place orders in real-time with a smooth and responsive UI"
+        "desc": "A full-stack food ordering platform that allows users to browse restaurants, add items to cart, and place orders in real-time with a smooth and responsive UI ,https://foodapp.in/demo.html"
     },
     {
         "id": 2,
         "images": "../images/nishal_h.jpeg",
         "award": "attendance system",
-        "desc": "An automated attendance tracking system that digitizes and simplifies student/employee attendance using secure login and real-time data storage"
+        "desc": "An automated attendance tracking system that digitizes and simplifies student/employee attendance using secure login and real-time data storage,https://www.jibble.io/attendance-tracker"
     },
     {
         "id": 3,
         "images": "../images/team_h.jpeg",
         "award": "yoga instruction app",
-        "desc": "A health and wellness application that helps users practice yoga through guided poses, routines, and progress tracking"
+        "desc": "A health and wellness application that helps users practice yoga through guided poses, routines, and progress tracking,https://www.jotform.com/app-templates/yoga-class-app"
     }
 ]
